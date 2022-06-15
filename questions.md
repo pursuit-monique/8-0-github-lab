@@ -28,6 +28,7 @@ What English mathematician and writer is often regarded as the first computer pr
 
 ```
 ada lovelace.    the company ada computing is named after her iirc
+add . 
 ```
 
 Who is the "Turing machine" named after?
