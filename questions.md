@@ -14,7 +14,7 @@ What does "ES6" stand for?
 ```
 ECMAScript 6
  European Computer Manufacturers Association (standard) script vs 6 i think.
-
+add .
 ```
 
 What company famously used the phrase "Don't be evil" in their code of conduct?
