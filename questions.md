@@ -35,4 +35,5 @@ Who is the "Turing machine" named after?
 
 ```
 Alan Turning, and I will die on that hill.
+add .
 ```
